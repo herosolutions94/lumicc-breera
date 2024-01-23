@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ecbcfae.css",
+    "main.js": "/static/js/main.53ee84d2.js",
+    "static/js/787.e8643ed1.chunk.js": "/static/js/787.e8643ed1.chunk.js",
+    "static/media/banner-full.png": "/static/media/banner-full.9945bad6708e92798bd9.png",
+    "static/media/Manrope-Light.woff": "/static/media/Manrope-Light.d9017e5a42e82920e452.woff",
+    "static/media/Manrope-Bold.woff": "/static/media/Manrope-Bold.e0519f5c009f5a8ca85e.woff",
+    "static/media/Manrope-SemiBold.woff": "/static/media/Manrope-SemiBold.0b743ab5a29c9f386b16.woff",
+    "static/media/Manrope-Regular.woff": "/static/media/Manrope-Regular.d376f2596e24c1367af2.woff",
+    "static/media/Manrope-Medium.woff": "/static/media/Manrope-Medium.d48846a2251ff4a2de86.woff",
+    "static/media/Manrope-ExtraBold.woff": "/static/media/Manrope-ExtraBold.9c5f64a49a830bf217c1.woff",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/icon-eye-slash.svg": "/static/media/icon-eye-slash.2925baa1fa9ac9864452.svg",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/icon-eye.svg": "/static/media/icon-eye.2054075ee0405db3f85d.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/play_icon.svg": "/static/media/play_icon.6383ec0279adb7ffded6.svg",
+    "static/media/plus.svg": "/static/media/plus.68fe625140ba3cacc926.svg",
+    "static/media/mask_layer_01.svg": "/static/media/mask_layer_01.8ea3289db53e61e3cc34.svg",
+    "static/media/minus.svg": "/static/media/minus.8f7763f72500ddf89a8f.svg",
+    "main.6ecbcfae.css.map": "/static/css/main.6ecbcfae.css.map",
+    "main.53ee84d2.js.map": "/static/js/main.53ee84d2.js.map",
+    "787.e8643ed1.chunk.js.map": "/static/js/787.e8643ed1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ecbcfae.css",
+    "static/js/main.53ee84d2.js"
+  ]
+}
